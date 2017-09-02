@@ -1,5 +1,6 @@
 test.java
-public class student extends person
+
+class Student extends person
 {
-public void eat()
+public void EWat()
 }
