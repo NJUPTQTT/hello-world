@@ -1,2 +1,5 @@
 test.java
-测试java文件
+public class student extends person
+{
+public void eat()
+}
