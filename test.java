@@ -1,2 +1,5 @@
 test.java
-测试java文件
+class Student extends person
+{
+public void EWat()
+}
