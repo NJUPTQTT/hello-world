@@ -1,7 +1,7 @@
 package com.spring.service;
 import java.util.ArrayList;
 import java.util.List;
-
+//注释应该清楚一些，谢谢
 import org.springframework.stereotype.Service;
 
 import com.spring.domain.Book;
